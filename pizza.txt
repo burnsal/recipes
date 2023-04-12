@@ -3,6 +3,7 @@
 crust
 -flour
 -yeast
+-olive oil
 sauce
 -tomato
 -garlic
@@ -12,3 +13,9 @@ toppings
 -moz cheese
 -fresh basil
 -lotsa love
+
+**Make the Crust**
+1. Mix flour with yeast, water and let sit
+2. Knead dough til smooth
+3. Let rise for one hour
+4. Use rolling pin to roll dough out into crust shape
